@@ -1,0 +1,2 @@
+/home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libssd1306.a CMakeFiles/__idf_ssd1306.dir/ssd1306.c.obj CMakeFiles/__idf_ssd1306.dir/ssd1306_spi.c.obj CMakeFiles/__idf_ssd1306.dir/ssd1306_i2c_legacy.c.obj
+/home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libssd1306.a

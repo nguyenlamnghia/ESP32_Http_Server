@@ -1,0 +1,24 @@
+esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_masks.c.obj: \
+ /home/nghianl/esp/esp-idf/components/perfmon/xtensa_perfmon_masks.c \
+ /home/nghianl/esp/esp-idf/components/perfmon/include/xtensa_perfmon_masks.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/inttypes.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/newlib.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/_newlib_version.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/config.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/machine/ieeefp.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/features.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_intsup.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/_ansi.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/8.4.0/include/stdint.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/stdint.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/machine/_default_types.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_stdint.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/8.4.0/include/stddef.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_locale.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/xt_perf_consts.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/hal.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h

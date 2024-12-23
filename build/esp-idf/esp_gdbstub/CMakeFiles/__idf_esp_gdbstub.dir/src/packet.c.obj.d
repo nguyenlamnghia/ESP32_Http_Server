@@ -1,0 +1,26 @@
+esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/packet.c.obj: \
+ /home/nghianl/esp/esp-idf/components/esp_gdbstub/src/packet.c \
+ /home/nghianl/esp/esp-idf/components/esp_gdbstub/private_include/esp_gdbstub_common.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/8.4.0/include/stdint.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/stdint.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/machine/_default_types.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/features.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/_newlib_version.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_intsup.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_stdint.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/8.4.0/include/stddef.h \
+ /home/nghianl/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/8.4.0/include/stdbool.h \
+ /home/nghianl/esp/esp-idf/components/esp_gdbstub/esp32/gdbstub_target_config.h \
+ /home/nghianl/esp/esp-idf/components/esp_gdbstub/xtensa/esp_gdbstub_arch.h \
+ /home/nghianl/esp/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_context.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/xtensa_context.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/hal.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h \
+ /home/nghianl/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ /home/nghianl/esp32_http_server/http_server/build/config/sdkconfig.h
